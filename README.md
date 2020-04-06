@@ -4,15 +4,14 @@
 
 For both projects, a short description and a link to the relevant demo and submodule are provided below.
 
-## Week 1 - Hello Server
-
+## Week 1 - Basic Chat Application
 This first week we started off building a simple real-time chat application using sockets.io. 
 
-- [Details on this exercise][exercices-week-1].
+- [Exercise details][exercices-week-1]
 - [code][code-week-1]
-- [live demo][demo-week-1]
+- [demo][demo-week-1]
 
 [course-repo]: https://github.com/cmda-minor-web/real-time-web-1920
 [exercices-week-1]: https://github.com/cmda-minor-web/real-time-web-1920/blob/master/course/week-1.md
 [demo-week-1]: https://lenn4rt.com/
-[code-week-1]: /basic-chat-application/
+[code-week-1]: https://github.com/lennartdeknikker/basic-chat-application
