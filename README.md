@@ -13,5 +13,5 @@ This first week we started off building a simple real-time chat application usin
 
 [course-repo]: https://github.com/cmda-minor-web/real-time-web-1920
 [exercices-week-1]: https://github.com/cmda-minor-web/real-time-web-1920/blob/master/course/week-1.md
-[demo-week-1]: https://lenn4rt.com/
+[demo-week-1]: http://chat.lenn4rt.com/
 [code-week-1]: https://github.com/lennartdeknikker/basic-chat-application
