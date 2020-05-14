@@ -1,6 +1,6 @@
 [submodule "basic-chat-application"]
 	path = basic-chat-application
 	url = https://github.com/lennartdeknikker/basic-chat-application.git
-[submodule "bus-tracker"]
-	path = bus-tracker
-	url = https://github.com/lennartdeknikker/bus-tracker.git
+[submodule "wiki-game"]
+	path = wiki-game
+	url = https://github.com/lennartdeknikker/wiki-game.git
